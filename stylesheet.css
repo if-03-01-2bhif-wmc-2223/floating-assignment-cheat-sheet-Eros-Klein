@@ -1,0 +1,36 @@
+body{
+    background-color: #D3D3D3;
+    color:black;
+    margin-top: 50px;
+    margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    font-size: 18px;
+    margin-left: 75px;
+}
+h1{
+    font-size: 44px;
+    text-decoration: underline;
+    color: grey;
+}
+h2{
+    font-size: 23px;
+}
+section.List{
+    border-color:slategrey;
+    border-style: solid;
+    margin-left: 120px;
+    border-width: 5px;
+    margin-right: 1300px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+p.serif{
+    font-family:'Times New Roman', Times, serif;
+}
+p.pixels{
+    font-size: 25px;
+}
+p.weight{
+    font-weight: 1000;
+}
