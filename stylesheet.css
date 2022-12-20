@@ -34,3 +34,11 @@ p.pixels{
 p.weight{
     font-weight: 1000;
 }
+table{
+    border-style: double;
+    border-collapse: collapse;
+}
+td ,th{
+    border-style: solid;
+    border-width: 2px;
+}
